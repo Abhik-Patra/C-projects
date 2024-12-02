@@ -80,7 +80,7 @@ void FillBoard(char user_x)
         }
         else
         {
-            printf("Invalid Position ---- please enter a valid position\n\n");
+            printf("Please enter a valid position\n\n");
             bound = 1;
         }
     }
